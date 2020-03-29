@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.manipuler.MainActivity">
+    <item
+        android:id="@+id/action1"
+        android:title="ListViewClient"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action2"
+        android:title="SpinnerClient"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action3"
+        android:title="GridViewClient"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action4"
+        android:title="GridViewClientSaisie"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action5"
+        android:title="Quitter"
+        app:showAsAction="never" />
+</menu>
